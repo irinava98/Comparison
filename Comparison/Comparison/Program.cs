@@ -8,8 +8,6 @@ namespace Comparison
     public delegate int CompDelegate(int a,int b);
     public class Program
     {
-     
-        //testvam si
         public static void Main(string[] args)
         {
             CompDelegate comp = Comparison2;
